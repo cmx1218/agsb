@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "cy0606"         # 用户名
 UUID = "edeceb95-72fe-46b4-957d-fb0d3698456c"                     # UUID，留空则自动生成
 PORT = 39999                 # Vmess端口，留空或0则自动生成
-DOMAIN = ""                   # 域名，留空则自动获取
+DOMAIN = "kjgx369.ddns-ip.net"                   # 域名，留空则自动获取
 CF_TOKEN = "eyJhIjoiMjk1M2U5NGZkZDkxNDlhNWQ4NWQ4OGI5ODY3MjYyMjUiLCJ0IjoiZTU2ZjViOTgtMzAwNS00M2EzLTk3YzYtOWM3M2YxYWM2OThhIiwicyI6Ik5URmlNemszWkRjdFpEa3dNaTAwTXpSakxUaG1OakF0WkdWa05EVm1PRE13TkRjMSJ9"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
